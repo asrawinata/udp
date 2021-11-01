@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "udp-packet": "^2.0.0"
+  }
+}
